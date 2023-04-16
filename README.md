@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey 🥸 I'm Cole Geerts
 
-<!--
-**ColeyG/ColeyG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who usually uses JavaScript and PHP to work, but I like C, Rust, and Bash also. I enjoy building web applications and working on challenging software projects.
 
-Here are some ideas to get you started:
+## Skills
+- JavaScript
+- PHP
+- HTML/CSS
+- MySQL
+- Accessibility
+- Analytics & SEO
+- Python
+- Linux
+- Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cole-geerts-452948159/) or [Here](https://colegeerts.com/).
